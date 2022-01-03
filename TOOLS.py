@@ -61,20 +61,20 @@ def masuk():
 	pilih()
 	
 def pilih():
-	tanya = raw_input('(+) choose : ')
-	if tanya == "":
+	pahrul = raw_input('(+) choose : ')
+	if pahrul == "":
 		print ("")
 		print "(+) Ngetik Apaan Lu bangsad !!!"
 		exit()
-	elif tanya == "1":
+	elif pahrul == "1":
 		x()
-	elif tanya == "2":
+	elif pahrul == "2":
 		xx()
-	elif tanya == "3":
+	elif pahrul == "3":
 		xxx()
-	elif tanya == "4":
+	elif pahrul == "4":
 		xxxx()
-	elif tanya == "0":
+	elif pahrul == "0":
 		exit()
 	else:
 		print ("")
