@@ -8,5 +8,6 @@
 ➠gem install lolcat
 ➠git clone https://github.com/P4HRUL/TOOLS
 ➠cd TOOLS
+➠git pull
 ➠python2 TOOLS.py
 ```
